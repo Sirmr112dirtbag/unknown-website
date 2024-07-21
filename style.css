@@ -1,0 +1,48 @@
+p.p-main{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 94, 0);
+    
+}
+
+.d-wel h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;  
+    padding: 10px;
+    background-color: rgb(6, 4, 87);
+
+}
+body{
+    background-color: rgb(87, 16, 60);
+}
+
+#d-pics{
+    background-color: rgb(6, 4, 87);
+   margin-left: 50px; 
+   margin-right: 50px;
+   margin-bottom: 20px ; 
+   padding: 20px;
+}
+.d-info{
+    display: block;
+    color: white;
+   padding: 50px;
+   background-color: rgb(6, 4, 87);
+   margin-left: 50px; 
+   margin-right: 50px; 
+   margin-bottom: 30px;
+}
+.d-sm{
+    color: white;
+    padding: 50px;
+    background-color: rgb(6, 4, 87);
+    margin-left: 50px; 
+    margin-right: 50px; 
+}
+.d-au{
+    display: flex;
+    background-color: brown;
+    margin-left: 50px; 
+   margin-right: 50px; 
+    
+}
